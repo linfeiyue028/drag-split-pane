@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c515d"],{"3e1f":function(n,e,t){"use strict";t.r(e);var u=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",[n._v("\n  子账户管理\n")])},c=[],i=t("048f"),l={},o=Object(i["a"])(l,u,c,!1,null,null,null);o.options.__file="index.vue";e["default"]=o.exports}}]);
